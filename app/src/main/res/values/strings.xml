@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="StudentLastFamily">
+        <item>Барашев</item>
+        <item>Бутузов</item>
+        <item>Быков</item>
+        <item>Еще-22-фамилии-которые-лень-прописыватян</item>
+        <!-- Можно добавить в целом -->
+    </string-array>
+    <string name="app_name">\n</string>
+</resources>
